@@ -1,4 +1,4 @@
-# Borawy 200 Unicode fonts (others in the future) (Not finished) - ⵜⵉⵙⵉⵙⴽⵍⵉⵏ ⵏ ⴱⵓⵕⴰⵡⵉ 200 ⵢⵓⵏⵉⴽⵓⴷ/ⵜⴰⵢⵏⴳⴰⵍⵜ (ⵙⵓⵍ ⴳ ⵜⵡⵓⵔⵉ)
+# Borawy 200 Unicode fonts (181/200 not finished) - ⵜⵉⵙⵉⵙⴽⵍⵉⵏ ⵏ ⴱⵓⵕⴰⵡⵉ 200 ⵢⵓⵏⵉⴽⵓⴷ/ⵜⴰⵢⵏⴳⴰⵍⵜ ( 181/200 ⵓⵔⵜⴰ ⵉⵜⵜⵙⵎⴷ)
 <br>![Tawalt Fonts](../borawy-1-1024x576.jpg)
 <br>[Link to the original fonts from Tawalt - ⴰⵙⵖⵓⵏ ⵙ ⵜⵉⵙⵉⵙⴽⵍⵉⵏ ⵜⵉⵥⵖⵓⵕⴰⵏⵏ ⵙⴳ ⵜⴰⵡⴰⵍⵜ](https://tawalt.tinussan.com/)
 <br>ⴷⴰ ⵜⵜⵉⵔⵉⵏⴷ ⵜⵉⴷ ⵜⵉⵥⵖⵓⵕⴰⵏⵏ ⴰⴷ ⵜⵜⴰⵔⴰⴷ ⵙ ⵓⵍⴰⵜⵉⵏ ⴼⴰⴷ ⴰⴷ ⵉⴳ ⵜⵉⴼⵉⵏⴰⵖ. ⵜⵉⴼⵉⴼⵖⵜ ⵏ ⵢⵓⵏⵉⴽⵓⴷ ⴷⴰ ⵉⵍⵍⴰⵏ ⴳ ⵖⵉⴷ ⴰⵔ ⵙⵡⵓⵔⵉⵏⵜ ⴷ ⵜⴼⵉⵏⴰⵖ. ⴷ ⵓⵍⴰ ⴽⵔⴰ ⵏ ⵜⵎⵓⴽⵔⵉⵙⵉⵏ ⵜⴻⵜⵜⴼⵙⵉⵏⵜ ⴳⵉⵙⵏⵜ. ⵔⴰⴷ ⵜⴻⵜⵜⵔⵏⵓⵏⵜ ⵜⵓⵏⵉⵖⵉⵏ ⵎⴰⵕⵕ ⵙ ⵉⵎⵉⴽⴽ.
