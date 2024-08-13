@@ -19,7 +19,10 @@ Download All the fonts that are avaialble here.
 <br>- ⵡⴰⵍⵉⴷ ⴱⵓⵛⵓⵛⵉ
 <br>- ⴰⵃⵎⴰⴷ ⴰⵢⵜ ⵄⵜⵎⴰⵏ
 <br>- ⵎⴰⵕⵡⴰⵏ ⵢⴰⴷⵔⵉ
-<br>- ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⴽⵓⵍⵍⵓ ⵎⴰⵏⵡⴰⴷ ⵉⵙⴽⵔⵏ ⴽⵔⴰ ⵏ ⵜⵙⵉⵙⴽⵍⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏⵉⵖ ⵉⴷⵔⴰ ⴳ ⵓⵙⴽⴰⵔ ⵏⵏⵙ. ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⵎⴰⵕⵕⴰ ⵡⴰⵏⵏⴰ ⵓⵔ ⵉⵜⵜⴱⴷⵔⵏ. 
+<br>- ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⴽⵓⵍⵍⵓ ⵎⴰⵏⵡⴰⴷ ⵉⵙⴽⵔⵏ ⴽⵔⴰ ⵏ ⵜⵙⵉⵙⴽⵍⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏⵉⵖ ⵉⴷⵔⴰ ⴳ ⵓⵙⴽⴰⵔ ⵏⵏⵙ. ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⵎⴰⵕⵕⴰ ⵡⴰⵏⵏⴰ ⵓⵔ ⵉⵜⵜⴱⴷⵔⵏ.
+<br>ⴽⵔⴰ ⴳ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⵎⴷⴷⵏ ⴰⴷ ⵓⵔⵜⴰ ⵜⴻⵜⵜⴷⵔⴰⵏⵜ.
+
+<br>**ⵉⵙⵎⵓⵏ ⵜⵏⵜ ⴷ ⵉⴷⵔⴰ ⵜⵏⵜ**: ⵄⴰⴱⴷⵓⵍⵃⴰⵇ ⵉⴷ ⵄⴰⵍⵉ
 
 <br>- [Tawalt](https://tawalt.tinussan.com) 
 <br>- [l'Institut Royal de la Culture Amazighe (IRCAM)](https://www.ircam.ma)
@@ -32,9 +35,6 @@ Download All the fonts that are avaialble here.
 <br>- Ahmed Ait Attman (Ammouri fonts)
 <br>- [Marwan Yadri](https://www.facebook.com/marwanyadri8) (Marwan Font)
 <br>- Thanks to anyone else who created or helped in the creation of any Amazigh font. Thanks to whom is not mentioned.
-
-<br>ⴽⵔⴰ ⴳ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⵎⴷⴷⵏ ⴰⴷ ⵓⵔⵜⴰ ⵜⴻⵜⵜⴷⵔⴰⵏⵜ.
 <br>Some people whom are mentioned have not their fonts uploaded yet.
 
-ⵉⵙⵎⵓⵏ ⵜⵏⵜ ⴷ ⵉⴷⵔⴰ ⵜⵏⵜ: ⵄⴰⴱⴷⵓⵍⵃⴰⵇ ⵉⴷ ⵄⴰⵍⵉ
-Collected and Upload: Abdelhaque Id Ali
+<br>**Collect and Upload**: Abdelhaque Id Ali
