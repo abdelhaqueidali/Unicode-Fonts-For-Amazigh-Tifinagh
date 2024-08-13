@@ -8,7 +8,7 @@ Download All the fonts that are avaialble here.
 <br>[Download All - ⵣⴷⵎ ⵎⴰⵕⵕⴰ](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)
 <br>ⵔⴰⴷ ⵜⵜⵔⵏⵓⵏⵜ ⵜⵉⵢⵢⴰⴹ ⴳ ⵉⵎⴰⵍ.
 <br>More will be added in the future.
-#We thank - ⴰⵔ ⵏⵙⵏⵉⵎⵎⵉⵔ
+# We thank - ⴰⵔ ⵏⵙⵏⵉⵎⵎⵉⵔ
 <br>- ⵜⴰⵡⴰⵍⵜ
 <br>- ⴰⵙⵉⵏⴰⴳ ⴰⴳⵍⴷⴰⵏ ⵏ ⵜⴷⵍⵙⴰ ⵜⴰⵎⴰⵣⵉⵖⵜ
 <br>-  ⵎⴰⵃⴰⵎⵎⴰⴷ ⵎⴰⴷⵖⵉⵙ ⵓ'ⵎⴰⴷⵉ
