@@ -35,6 +35,6 @@ Download All the fonts that are avaialble here.
 <br>- Ahmed Ait Attman (Ammouri fonts)
 <br>- [Marwan Yadri](https://www.facebook.com/marwanyadri8) (Marwan Font)
 <br>- Thanks to anyone else who created or helped in the creation of any Amazigh font. Thanks to whom is not mentioned.
-<br>Some people whom are mentioned have not their fonts uploaded yet.
+<br>Some fonts of some people whom we mentioned have not been uploaded yet.
 
 <br>**Collect and Upload**: Abdelhaque Id Ali
