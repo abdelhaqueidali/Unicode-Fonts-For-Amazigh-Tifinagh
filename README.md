@@ -1,11 +1,11 @@
 # Unicode-Fonts-For-Amazigh (Tifinagh)
 ⵜⵉⵙⵉⵙⴽⵍⵉⵏ (ⵜⵓⵏⵉⵖⵉⵏ) ⵉ ⵓⴳⵎⵎⴰⵢ ⴰⵎⴰⵣⵉⵖ, ⵜⵉⴼⵉⵏⴰⵖ. ⵜⵉⴼⵉⵏⴰⵖ ⵙ ⵜⴼⵉⵏⴰⵖ.
 <br>Fonts for Amazigh script, Tifinagh. Tifinagh using Tifinagh.
-# DOWNLOAD - ⴰⵣⴷⴰⵎ
+# DOWNLOAD - ⴰⴳⵯⵎ
 ![Borawy fonts](Tawalt/tira_banner.jpg)
 <br>ⵣⴷⵎ ⴽⵓⵍⵍⵓ ⵜⵓⵏⵉⵖⵉⵏ ⴷⴰ ⵉⵍⵍⴰⵏ ⴷⵖⵉ.
 Download All the fonts that are avaialble here.
-<br>[Download All - ⵣⴷⵎ ⵎⴰⵕⵕⴰ](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)
+<br>[Download All - ⴰⴳⵯⵎ ⵎⴰⵕⵕⴰ](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)
 <br>ⵔⴰⴷ ⵜⵜⵔⵏⵓⵏⵜ ⵜⵉⵢⵢⴰⴹ ⴳ ⵉⵎⴰⵍ.
 <br>More will be added in the future.
 # We thank - ⴰⵔ ⵏⵙⵏⵉⵎⵎⵉⵔ
@@ -22,7 +22,7 @@ Download All the fonts that are avaialble here.
 <br>- ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⴽⵓⵍⵍⵓ ⵎⴰⵏⵡⴰⴷ ⵉⵙⴽⵔⵏ ⴽⵔⴰ ⵏ ⵜⵙⵉⵙⴽⵍⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏⵉⵖ ⵉⴷⵔⴰ ⴳ ⵓⵙⴽⴰⵔ ⵏⵏⵙ. ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⵎⴰⵕⵕⴰ ⵡⴰⵏⵏⴰ ⵓⵔ ⵉⵜⵜⴱⴷⵔⵏ.
 <br>ⴽⵔⴰ ⴳ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⵎⴷⴷⵏ ⴰⴷ ⵓⵔⵜⴰ ⵜⴻⵜⵜⴷⵔⴰⵏⵜ.
 
-<br>**ⵉⵙⵎⵓⵏ ⵜⵏⵜ ⴷ ⵉⴷⵔⴰ ⵜⵏⵜ**: ⵄⴰⴱⴷⵓⵍⵃⴰⵇ ⵉⴷ ⵄⴰⵍⵉ
+<br>**ⴰⵙⵎⵓⵏ ⴷ ⵓⵙⴽⵜⵔ**: ⵄⴰⴱⴷⵓⵍⵃⴰⵇ ⵉⴷ ⵄⴰⵍⵉ
 
 <br>- [Tawalt](https://tawalt.tinussan.com) 
 <br>- [l'Institut Royal de la Culture Amazighe (IRCAM)](https://www.ircam.ma)
