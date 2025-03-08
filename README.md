@@ -1,40 +1,68 @@
-# Unicode-Fonts-For-Amazigh (Tifinagh)
-ⵜⵉⵙⵉⵙⴽⵍⵉⵏ (ⵜⵓⵏⵉⵖⵉⵏ) ⵉ ⵓⴳⵎⵎⴰⵢ ⴰⵎⴰⵣⵉⵖ, ⵜⵉⴼⵉⵏⴰⵖ. ⵜⵉⴼⵉⵏⴰⵖ ⵙ ⵜⴼⵉⵏⴰⵖ.
-<br>Fonts for Amazigh script, Tifinagh. Tifinagh using Tifinagh.
-# DOWNLOAD - ⴰⴳⵯⵎ
+# Unicode Fonts for Amazigh (Tifinagh)
+
+This repository provides a collection of Unicode fonts specifically designed for the Amazigh (Berber) language and its Tifinagh script. The fonts are designed *by* Amazigh speakers *for* Amazigh writing.
+
+**[Download All Fonts](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)**
+
+**Featured Fonts Banner:**
 ![Borawy fonts](Tawalt/tira_banner.jpg)
-<br>ⵣⴷⵎ ⴽⵓⵍⵍⵓ ⵜⵓⵏⵉⵖⵉⵏ ⴷⴰ ⵉⵍⵍⴰⵏ ⴷⵖⵉ.
-Download All the fonts that are avaialble here.
-<br>[Download All - ⴰⴳⵯⵎ ⵎⴰⵕⵕⴰ](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)
-<br>ⵔⴰⴷ ⵜⵜⵔⵏⵓⵏⵜ ⵜⵉⵢⵢⴰⴹ ⴳ ⵉⵎⴰⵍ.
-<br>More will be added in the future.
-# We thank - ⴰⵔ ⵏⵙⵏⵉⵎⵎⵉⵔ
-<br>- ⵜⴰⵡⴰⵍⵜ
-<br>- ⴰⵙⵉⵏⴰⴳ ⴰⴳⵍⴷⴰⵏ ⵏ ⵜⴷⵍⵙⴰ ⵜⴰⵎⴰⵣⵉⵖⵜ
-<br>-  ⵎⴰⵃⴰⵎⵎⴰⴷ ⵎⴰⴷⵖⵉⵙ ⵓ'ⵎⴰⴷⵉ
-<br>- ⴱⵓⵕⴰⵡⵉ ⴰⵃⵊⵊⴰⵊ
-<br>- ⴷⵔⵉⵙ ⴰⵢⵜ ⵄⵓⵎⴰⵕ
-<br>- ⴰⵢⵜ ⵍⵎⵓⴷⴷⵏ ⵎⵔⵢⵎ
-<br>- ⵎⴰⴷⵍⵉⵏ ⵍⴰⴷⵉ
-<br>- ⵡⴰⵍⵉⴷ ⴱⵓⵛⵓⵛⵉ
-<br>- ⴰⵃⵎⴰⴷ ⴰⵢⵜ ⵄⵜⵎⴰⵏ
-<br>- ⵎⴰⵕⵡⴰⵏ ⵢⴰⴷⵔⵉ
-<br>- ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⴽⵓⵍⵍⵓ ⵎⴰⵏⵡⴰⴷ ⵉⵙⴽⵔⵏ ⴽⵔⴰ ⵏ ⵜⵙⵉⵙⴽⵍⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏⵉⵖ ⵉⴷⵔⴰ ⴳ ⵓⵙⴽⴰⵔ ⵏⵏⵙ. ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⵎⴰⵕⵕⴰ ⵡⴰⵏⵏⴰ ⵓⵔ ⵉⵜⵜⴱⴷⵔⵏ.
-<br>ⴽⵔⴰ ⴳ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⴽⵔⴰ ⴳ ⵎⴷⴷⵏ ⴰⴷ ⵉⵜⵜⵓⴱⴷⴰⵔⵏ ⵓⵔ ⵜⴰ ⵜⵜⵓⵙⴽⵜⴰⵔⵏⵜ.
 
-<br>**ⴰⵙⵎⵓⵏ ⴷ ⵓⵙⴽⵜⵔ**: ⵄⴰⴱⴷⵓⵍⵃⴰⵇ ⵉⴷ ⵄⴰⵍⵉ
+More fonts will be added in the future.
 
-<br>- [Tawalt](https://tawalt.tinussan.com) 
-<br>- [l'Institut Royal de la Culture Amazighe (IRCAM)](https://www.ircam.ma)
-<br>- [Madghis U'Madi](https://www.facebook.com/madimadghis)
-<br>- Borawy Al Hjaj
-<br>- [Idriss Ait Omar](https://www.facebook.com/profile.php?id=100089678837305)
-<br>- Ayt Lmuddn Mrym
-<br>- Madeleine Leddy (Fedra Font)
-<br>- Walid Bouchouchi (Amadal Font)
-<br>- Ahmed Ait Attman (Ammouri fonts)
-<br>- [Marwan Yadri](https://www.facebook.com/marwanyadri8) (Marwan Font)
-<br>- Thanks to anyone else who created or helped in the creation of any Amazigh font. Thanks to whom is not mentioned.
-<br>Some fonts of some people whom we mentioned have not been uploaded yet.
+---
 
-<br>**Collect and Upload**: Abdelhaque Id Ali
+**ⵜⵉⵙⵉⵙⴽⵍⵉⵏ (ⵜⵓⵏⵉⵖⵉⵏ) ⵉ ⵓⴳⵎⵎⴰⵢ ⴰⵎⴰⵣⵉⵖ, ⵜⵉⴼⵉⵏⴰⵖ.**
+
+ⵉⵙⵎⵓⵏ ⵓⵙⴰⴳⵯⵎ ⴰⴷ ⵜⵓⴳⵜ ⵏ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⵢⵓⵏⵉⴽⵓⴷ ⵉⵥⵍⵉⵏ ⵙ ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⴷ ⵓⵙⴽⴽⵉⵍ ⵏⵏⵙ, ⵜⵉⴼⵉⵏⴰⵖ. ⵜⵉⵙⵉⵙⴽⵍⵉⵏ ⴰⴷ ⵜⵜⵓⵙⴽⴰⵔⵏⵜ *ⵙⵖⵓⵔ* ⵉⵎⵙⵙⵉⵡⵍⵏ ⵙ ⵜⵎⴰⵣⵉⵖⵜ *ⵉ* ⵜⵉⵔⵔⴰ ⵜⴰⵎⴰⵣⵉⵖⵜ.
+
+**[ⴰⴳⵯⵎ ⵎⴰⵕⵕⴰ](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)**
+
+ⵔⴰⴷ ⵜⵜⵔⵏⵓⵏⵜ ⵜⵉⵢⵢⴰⴹ ⴳ ⵉⵎⴰⵍ.
+
+---
+
+## Acknowledgements
+
+We extend our sincere gratitude to the following individuals and organizations for their contributions to the development of Tifinagh fonts:
+
+*   **Organizations:**
+    *   [Tawalt](https://tawalt.tinussan.com)
+    *   [l'Institut Royal de la Culture Amazighe (IRCAM)](https://www.ircam.ma)
+
+*   **Individuals:**
+    *   [Madghis U'Madi](https://www.facebook.com/madimadghis)
+    *   Borawy Al Hjaj
+    *   [Idriss Ait Omar](https://www.facebook.com/profile.php?id=100089678837305)
+    *   Ayt Lmuddn Mrym
+    *   Madeleine Leddy (Fedra Font)
+    *   Walid Bouchouchi (Amadal Font)
+    *   Ahmed Ait Attman (Ammouri fonts)
+    *   [Marwan Yadri](https://www.facebook.com/marwanyadri8) (Marwan Font)
+
+A general thank you to everyone who has created or contributed to the creation of any Amazigh font, including those not explicitly mentioned here. We apologize if we have missed listing any fonts or contributors; some fonts from mentioned individuals are still to be uploaded.
+
+---
+
+## ⴰⵔ ⵏⵙⵏⵉⵎⵎⵉⵔ
+
+ⴰⵔ ⵏⵙⵏⵉⵎⵎⵉⵔ ⵙ ⵓⵢⴰⴼⵓ ⵉⵎⵇⵇⵓⵔⵏ ⵉ ⵢⵉⵎⵙⵓⵜⴰⵢ ⴷ ⵜⵎⵙⵎⵓⵏⵉⵏ ⴰⴷ ⴼ ⵜⵉⴷⵔⴰⵡⵉⵏ ⵏⵏⵙⵏ ⴳ ⵓⵙⵏⴼⵍⵓⵍ ⵏ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⵜⴼⵉⵏⴰⵖ:
+
+*   **ⵜⵉⵎⵙⵎⵓⵏⵉⵏ:**
+    *   [Tawalt](https://tawalt.tinussan.com)
+    *   [ⴰⵙⵉⵏⴰⴳ ⴰⴳⵍⴷⴰⵏ ⵏ ⵜⴷⵍⵙⴰ ⵜⴰⵎⴰⵣⵉⵖⵜ (IRCAM)](https://www.ircam.ma)
+
+*   **ⵉⵎⴷⴰⵏⵏ:**
+    *   [ⵎⴰⴷⵖⵉⵙ ⵓⵎⴰⴷⵉ](https://www.facebook.com/madimadghis)
+    *   ⴱⵓⵕⴰⵡⵉ ⴰⵃⵊⵊⴰⵊ
+    *   [ⴷⵔⵉⵙ ⴰⵢⵜ ⵄⵓⵎⴰⵕ](https://www.facebook.com/profile.php?id=100089678837305)
+    *   ⴰⵢⵜ ⵍⵎⵓⴷⴷⵏ ⵎⵔⵢⵎ
+    *   ⵎⴰⴷⵍⵉⵏ ⵍⴰⴷⵉ (Fedra Font)
+    *   ⵡⴰⵍⵉⴷ ⴱⵓⵛⵓⵛⵉ (Amadal Font)
+    *   ⴰⵃⵎⴰⴷ ⴰⵢⵜ ⵄⵜⵎⴰⵏ (Ammouri fonts)
+    *   [ⵎⴰⵕⵡⴰⵏ ⵢⴰⴷⵔⵉ](https://www.facebook.com/marwanyadri8) (Marwan Font)
+    
+    ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⴽⵓⵍⵍⵓ ⵎⴰⵏⵡⴰⴷ ⵉⵙⴽⵔⵏ ⴽⵔⴰ ⵏ ⵜⵙⵉⵙⴽⵍⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏⵉⵖ ⵉⴷⵔⴰ ⴳ ⵓⵙⴽⴰⵔ ⵏⵏⵙ. ⵜⴰⵏⵎⵎⵉⵔⵜ ⵉ ⵎⴰⵕⵕⴰ ⵡⴰⵏⵏⴰ ⵓⵔ ⵉⵜⵜⴱⴷⵔⵏ. ⴰⵙⵓⵔⴼ ⵉⵖ ⵏⵜⵜⵓ ⵓⵔ ⵏⴱⴷⵉⵔ ⴽⵔⴰ ⵏ ⵢⴰⵏ; ⴽⵔⴰ ⵏ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⴽⵔⴰ ⵏ ⵎⴷⴷⵏ ⴰⴷ ⵉⵜⵜⵓⴱⴷⴰⵔⵏ ⵓⵔ ⵜⴰ ⵜⵜⵓⵔⵏⴰⵏⵜ ⵖⵉⴷ.
+---
+
+**Collected and Uploaded by:** Abdelhaque Id Ali
+**ⴰⵙⵎⵓⵏ ⴷ ⵓⵙⴽⵜⵔ:** ⵄⴱⴷⵍⵃⵇ ⵉⴷ ⵄⵍⵉ
