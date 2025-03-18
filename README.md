@@ -1,8 +1,10 @@
 # Unicode Fonts for Amazigh (Tifinagh)
 
-This repository provides a collection of Unicode fonts specifically designed for the Amazigh (Berber) language and its Tifinagh script. The fonts are designed *by* Amazigh speakers *for* Amazigh writing.
+This repository provides a collection of Unicode fonts specifically designed for the Amazigh (Berber) language and its Tifinagh script. Most fonts here are from the Royal Institution of Amazigh in Morocco, and the Foundation of Tawalt from Libya, as well as from inidviduals. This repo has those fonts with incompability issus with unicode encoded Tifinagh. Now you may freely type in Tifinagh and exprect the Tifinagh glyphs as they should be.
 
 **[Download All Fonts](https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip)**
+
+Note: Most of these fonts go with only the 33 standard letters of the Alphabet, with Tawalt fonts missing the sign ⵯ, so make sure if it appears correctls or do remove it.
 
 **Featured Fonts Banner:**
 ![Borawy fonts](Tawalt/tira_banner.jpg)
