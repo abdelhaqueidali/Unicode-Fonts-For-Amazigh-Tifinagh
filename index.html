@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fonts</title>
+    <!-- Google Fonts - Noto Sans Tifinagh -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tifinagh&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">  <!--  Keep this for any future global styles -->
+    <style>
+        /*  Additional styles for index.html (can be moved to style.css later) */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Container for the entire page content */
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            flex: 1;
+        }
+
+        /* Header Styles */
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        /* Navigation Menu Styles */
+        .nav-toggle {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+       main {
+            padding: 20px; /* Add padding around the main content */
+        }
+
+        main h2 {
+            color: #4CAF50; /* Green heading */
+            text-align: center;
+            margin-top: 0; /* Reduce top margin */
+            margin-bottom: 15px; /* Space below heading */
+        }
+		main h4 {
+            color: #4CAF50; /* Green heading */
+            text-align: center;
+            margin-top: 0; /* Reduce top margin */
+            margin-bottom: 15px; /* Space below heading */
+        }
+
+        .section { /* Group each section (description + instructions) */
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ccc; /* Subtle separator */
+            padding-bottom: 20px;
+        }
+        .section:last-child{
+            border-bottom: none;
+        }
+
+        .description p {
+            margin-bottom: 10px;
+            line-height:1.6;
+        }
+
+        /* Styling for text in different languages */
+        .amazigh-text, .arabic-text {
+            margin-bottom: 10px;
+        }
+      .arabic-text p{
+        direction: rtl;
+      }
+         .amazigh-text p {
+            font-family: 'Noto Sans Tifinagh', serif; /* Use the Tifinagh font */
+            font-size: 1.2em;
+        }
+
+        #instructions {
+            background-color: #f9f9f9; /* Light gray background */
+            border: 1px solid #ddd;
+            padding: 15px;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        #instructions p {
+            margin: 5px 0; /* Less margin for instruction lines */
+            font-size: 1.1em;
+        }
+        #instructions .amazigh-text p, #instructions .arabic-text p{
+            font-size: 1em;
+        }
+
+
+        #download-button {
+            display: inline-block; /* Make the link behave like a button */
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        #download-button:hover {
+            background-color: #367c39; /* Darker green on hover */
+        }
+
+        /* Footer Styles */
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            border-radius: 0 0 8px 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ⵜⵉⵙⵉⵙⴽⵍⵉⵏ</h1>
+        </header>
+        <a href="https://abdelhaqueidali.github.io/Amazigh/index.html">
+            <button class="nav-toggle">ⴰⵙⵏⵓⴱⴳ</button>
+        </a>
+        <main>
+  
+            <div class="section">
+            <h2>ⴰⴳⵯⵎ ⵜⴰⴷⵍⴰ ⵜⴰⵎⴰⵜⴰⵢⵜ ⵏ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ ⵜⴼⵉⵏⴰⵖ</h2>
+            <h4>قم بتنزيل حزمة كاملة لخطوط تيفيناغ</h4>
+            <h4>Download a Complete Tifinagh Fonts Pack</h4>
+            <div class="section">
+                <div id="instructions">
+                  <p class="amazigh-text">ⴳⴳⵔ ⵉ ⴰⴳⵯⵎ</p>
+                  <p class="arabic-text">أنقر على تنزيل</p>
+                  <a href="https://github.com/abdelhaqueidali/Unicode-Fonts-For-Amazigh-Tifinagh/archive/refs/heads/main.zip" id="download-button">ⴰⴳⵯⵎ - تنزيل</a>
+                </div>
+            </div>
+            <div class="description">
+                <div class="amazigh-text">
+                    <p>
+                        ⵜⴰⴷⵍⴰ ⴰⴷ ⵏ ⵜⵙⵉⵙⴽⵍⵉ ⵜⴳⴰ ⴰⴼⵙⵙⴰⵢ ⴰⵎⴰⵜⴰⵢ ⵉ ⵜⵉⵔⵔⴰ ⵙ ⵜⴼⵉⵏⴰⵖ, ⵓⵔ ⵜⵓⵙⵔⴷ ⵜⵉⵔⵔⴰ ⵙ ⵓⵍⴰⵜⵉⵏ ⵉⵍⵎⵎⴰ ⴰⵖⵓⵍⵏ ⵖⵔ ⵜⴼⵉⵏⴰⵖ.
+                        ⵜⵜⵓⵙⵜⵔⴰⵔⵏⵜ ⵜⵙⵉⵙⴽⵍⵉⵏ ⵏ Ircam ⴷ Tawalt ⴷ ⵜⵢⵢⴰⴹ, ⴼⴰⴷ ⴰⴷ ⵙⵡⵓⵔⵉⵏ ⵢⵉⵙⴽⴽⵉⵍ ⵏ ⵜⴼⵉⵏⴰⵖ ⴰⴽⵯⴷ ⵜⵙⵉⵙⴽⵍⵉⵏ ⴰⴷ ⴱⵍⴰ ⵉⵎⵓⴽⵔⵉⵙⵏ.
+                        ⵜⵉⵙⵉⵙⴽⵍⵉⵏ ⴰⴷ ⴷⵉⴳⵙⵏⵜ ⴰⵡⴷ ⵉⴼⵙⵙⴰⵢⵏ ⵏ ⴽⵔⴰ ⵏ ⵜⵎⵓⴽⵔⵉⵙⵉⵏ ⵏⵏⵉⴹⵏ.
+                    </p>
+                </div>
+                <div class="arabic-text">
+                    <p>
+                      هذه حزمة من الخطوط التي تقدم حلاً شاملاً للكتابة بتيفيناغ. إنها تلغي الحاجة إلى الكتابة بالحروف اللاتينية ثم التحويل إلى تيفيناغ.
+                        لقد تم تحديث خطوط من إركام (Ircam) وتوالت (Tawalt) وغيرها، لضمان التوافق السلس بين حروف تيفيناغ وهذه الخطوط.
+                        تعالج هذه الخطوط أيضًا العديد من المشكلات الأخرى ذات الصلة.
+                    </p>
+                </div>
+
+                <p>
+                   This fonts pack is a general solution for writing in Tifinagh, it does not require writing in Latin to then convert to Tifinagh.
+                   Fonts from Ircam, Tawalt, and others have been updated so that Tifinagh works seamlessly with these fonts.
+                   These fonts also include solutions for some other problems.
+                </p>
+            </div>
+            </div>
+
+        </main>
+
+        <footer>
+            <p>ⴰⴼⴰⵡ</p>
+        </footer>
+    </div>
+</body>
+</html>
